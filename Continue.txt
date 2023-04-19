@@ -1,0 +1,2 @@
+2023-04-19T15:51:31AEST 'run' script which provides output/input dir for both scripts (or just combine them)
+
